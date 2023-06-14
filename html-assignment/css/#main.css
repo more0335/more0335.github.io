@@ -1,0 +1,40 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+}
+
+header, footer {
+    background-color: coral;
+}
+
+.site-title {
+    color: darkorchid;
+}
+
+#my-image {
+    box-shadow: 0 0 2px 1px black;
+}
+
+
+.hobbies {
+    list-style-type: square;
+}
+
+.hobies li:nth-child(odd){
+    background-color: aquamarine;
+}
+
+
+.nav {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    background-color: salmon;
+    border: 2px solid #000;
+}
+
+a:hover {
+    background-color: gold;
+}
