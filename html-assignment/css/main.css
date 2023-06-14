@@ -1,10 +1,10 @@
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 18px;
 }
 
 header, footer {
-    background-color: coral;
+    background-color: pink;
 }
 
 .site-title {
@@ -31,10 +31,10 @@ header, footer {
 
 a {
     text-decoration: none;
-    background-color: salmon;
+    background-color: gold;
     border: 2px solid #000;
 }
 
 a:hover {
-    background-color: gold;
+    background-color: coral;
 }
